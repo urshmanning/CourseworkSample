@@ -1,0 +1,45 @@
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\GUI.baml
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Payslip.baml
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\GUI.g.cs
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Payslip.g.cs
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\App.g.cs
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\bin\Debug\Coursework.exe
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.exe
+C:\Users\Joe\Google Drive\Uni\Year 2 Semester 1\Software Development 2\Coursework 1\Coursework1\Coursework\obj\Debug\Coursework.pdb
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\bin\Debug\Coursework.exe
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\bin\Debug\Coursework.pdb
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\GUI.baml
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Payslip.baml
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\GUI.g.cs
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Payslip.g.cs
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\App.g.cs
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.exe
+C:\Users\urshmanning\Documents\40117680-cw1-4ff77b9aee6b\Coursework1\Coursework\obj\Debug\Coursework.pdb
+C:\Users\urshmanning\Documents\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.exe
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.pdb
+C:\Users\urshmanning\Documents\Coursework\bin\Debug\Coursework.exe
+C:\Users\urshmanning\Documents\Coursework\bin\Debug\Coursework.pdb
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\GUI.baml
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Payslip.baml
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\GUI.g.cs
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Payslip.g.cs
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\App.g.cs
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\urshmanning\Documents\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache

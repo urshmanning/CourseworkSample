@@ -1,0 +1,23 @@
+﻿<Window x:Name="wndPayslip" x:Class="Coursework.Payslip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Payslip" Height="350" Width="500" Loaded="wndPayslip_Loaded">
+    <Grid>
+        <Label x:Name="lblPayslip" Content="Payslip:" HorizontalAlignment="Left" Margin="70,30,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="lblLastName" Content="&lt;lastname&gt;" HorizontalAlignment="Left" Margin="188,32,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblFirstName" Content="&lt;firstname&gt;" HorizontalAlignment="Left" Margin="267,32,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDepartment" Content="(&lt;department&gt;)" HorizontalAlignment="Left" Margin="348,32,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblHours" Content="Hours Worked" HorizontalAlignment="Left" Margin="70,97,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="lblHoursWorked" Content="&lt;hoursworked&gt;" HorizontalAlignment="Left" Margin="188,100,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblGross" Content="Gross Pay" HorizontalAlignment="Left" Margin="70,131,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="lblGrossPay" Content="&lt;grosspay&gt;" HorizontalAlignment="Left" Margin="188,133,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTax" Content="Tax Rate" HorizontalAlignment="Left" Margin="70,165,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="lblTaxRate" Content="&lt;taxrate&gt;" HorizontalAlignment="Left" Margin="188,167,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblNet" Content="Net Pay" HorizontalAlignment="Left" Margin="70,199,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="lblNetPay" Content="&lt;netpay&gt;" HorizontalAlignment="Left" Margin="188,201,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="369,272,0,0" VerticalAlignment="Top" Width="75" Click="btnClose_Click"/>
+        <Label x:Name="lblCourse" Content="&lt;course&gt;" HorizontalAlignment="Left" Margin="188,63,0,0" VerticalAlignment="Top" Visibility="Visible"/>
+        <Label x:Name="lblSupervisor" Content="&lt;supervisor&gt;" HorizontalAlignment="Left" Margin="267,63,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
